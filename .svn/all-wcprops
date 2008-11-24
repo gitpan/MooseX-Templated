@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/moose/svn/!svn/ver/6631/MooseX-Templated
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/moose/svn/!svn/ver/6617/MooseX-Templated/MANIFEST
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/moose/svn/!svn/ver/6631/MooseX-Templated/Makefile.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/moose/svn/!svn/ver/6631/MooseX-Templated/Changes
+END
+Build.PL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/moose/svn/!svn/ver/6631/MooseX-Templated/Build.PL
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/moose/svn/!svn/ver/6617/MooseX-Templated/README
+END
